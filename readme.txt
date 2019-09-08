@@ -47,7 +47,7 @@
 
  Git鼓励大量使用分支：
 
-查看分支：git branch
+查看分支：git branch 
 
 创建分支：git branch <name>
 
@@ -61,4 +61,11 @@
 
 我是测试
 
+-----------------
+git bash here 后在idea使用执行语句
+git init
+git add src
+git commit -m  "first commit"
+git remote add origin https://github.com/mw138/TestGit.git
+git push  -u origin master
 
